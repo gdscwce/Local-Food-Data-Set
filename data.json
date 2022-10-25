@@ -1285,5 +1285,17 @@
         "rating": "4",
         "image": "https://www.google.com/search?q=tarri+poha&sxsrf=ALiCzsaBJHECiJBDuoWBpgUT4bZc-KEXqQ:1666696162481&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi--tmFn_v6AhWI63MBHf7eB44Q_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=O7280VWGM3PgmM",
         "location": "https://www.google.com/maps/place/Jain+Poha+Centre/@23.9390153,71.5498425,6z/data=!4m9!1m2!2m1!1starri+poha!3m5!1s0x390ce3564ceb4159:0x15133449deeb84b2!8m2!3d28.621284!4d77.2845909!15sCgp0YXJyaSBwb2hhWgwiCnRhcnJpIHBvaGGSAQpyZXN0YXVyYW504AEA"
+    },
+    {
+        "id": 105,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Palghar",
+        "food" : "vadapav",
+        "type": "Bread",
+        "foodEnergy": "289 cal",
+        "rating": "4.1",
+        "image": "https://content.jdmagicbox.com/comp/mumbai/q9/022pxx22.xx22.170914213013.e8q9/catalogue/junaid-vada-pav-center-dharavi-mumbai-vada-pav-centres-tcxh1nilqu.jpg?clr=",
+        "location": "https://goo.gl/maps/coE1SLav75PDRcYF7"
     }
 ]
