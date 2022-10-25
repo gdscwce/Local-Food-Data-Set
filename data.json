@@ -1273,5 +1273,17 @@
         "rating": "5",
         "image": "https://content3.jdmagicbox.com/comp/nashik/q7/0253px253.x253.170720171115.c1q7/catalogue/garden-misal-pav-center-sinnar-nashik-misal-pav-centres-qebbe.jpg",
         "location": "https://www.google.com/maps/place/Garden+Misal/@19.8496709,73.9881827,18.4z/data=!4m5!3m4!1s0x3bddba4e4a455c7f:0x1a34cd3ff7f55af!8m2!3d19.8480269!4d73.9915842"
+    },
+	{
+        "id": 104,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Nagpur",
+        "food" : "Tarri poha",
+        "type": "Break-Fast",
+        "foodEnergy": "300 cal",
+        "rating": "4",
+        "image": "https://www.google.com/search?q=tarri+poha&sxsrf=ALiCzsaBJHECiJBDuoWBpgUT4bZc-KEXqQ:1666696162481&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi--tmFn_v6AhWI63MBHf7eB44Q_AUoAXoECAEQAw&biw=1536&bih=714&dpr=1.25#imgrc=O7280VWGM3PgmM",
+        "location": "https://www.google.com/maps/place/Jain+Poha+Centre/@23.9390153,71.5498425,6z/data=!4m9!1m2!2m1!1starri+poha!3m5!1s0x390ce3564ceb4159:0x15133449deeb84b2!8m2!3d28.621284!4d77.2845909!15sCgp0YXJyaSBwb2hhWgwiCnRhcnJpIHBvaGGSAQpyZXN0YXVyYW504AEA"
     }
 ]
