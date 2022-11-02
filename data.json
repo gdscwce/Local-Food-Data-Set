@@ -1299,5 +1299,17 @@
         "rating": "4.1",
         "image": "https://content.jdmagicbox.com/comp/mumbai/q9/022pxx22.xx22.170914213013.e8q9/catalogue/junaid-vada-pav-center-dharavi-mumbai-vada-pav-centres-tcxh1nilqu.jpg?clr=",
         "location": "https://goo.gl/maps/coE1SLav75PDRcYF7"
-    }
+    },
+    {
+        "id": 106,
+        "placeOfOrigin": "India",
+        "region": "Maharashtra",
+        "city": "Aurangabad",
+        "food" : "Paan(पान)",
+        "type": "Tobacco",
+        "foodEnergy": "50 cal",
+        "rating": "5",
+        "image": "https://images.yourstory.com/cs/21/a182c7e0-1407-11e9-87e2-f7248b252f46/Tara_Paan1553777885952.png?fm=auto&ar=2:1&mode=crop&crop=faces&w=1270",
+        "location": "https://www.google.com/maps/place/Tara+Pan+Center/@19.8669123,75.3235594,17z/data=!3m1!4b1!4m6!3m5!1s0x3bdb995441ec23e5:0xf5bf771e6977dc3a!8m2!3d19.8669123!4d75.3257481!16s%2Fg%2F1tcycy56"
+    }	
 ]
